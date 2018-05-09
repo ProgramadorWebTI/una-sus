@@ -39,7 +39,3 @@
 		});
 	});
 </script>
-
-
-git config --global user.name “ProgramadorWebTI”
-git config --global user.email “programadorwebti@gmail.com”
